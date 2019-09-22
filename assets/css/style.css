@@ -366,23 +366,26 @@ h5.subtitle {
 .site-navigation,
 .trans-navigation {
     padding: 20px 0px;
+    background-color: black;
 }
 
 .site-navigation .navbar-nav a,
 .trans-navigation .navbar-nav a {
     text-transform: uppercase;
+    background-color: black;
 }
 
 .site-navigation .navbar-nav a.active,
 .trans-navigation .navbar-nav a.active {
     color: red;
+    background-color: black;
 }
 
 
 .header-white {
     position: fixed;
     top: 0px;
-    background: #111;
+    background: #000;
     z-index: 9999;
     width: 100%;
     left: 0;
@@ -395,6 +398,7 @@ h5.subtitle {
 .navbar-expand-lg.trans-navigation .navbar-nav .nav-link,
 .navbar-expand-lg.site-navigation .navbar-nav .nav-link {
     padding: 0px 24px;
+    background-color: black;
 }
 
 .navbar-expand-lg.trans-navigation .navbar-nav .nav-link:last-child,
@@ -407,6 +411,7 @@ h5.subtitle {
     -webkit-transition: all .3s ease 0s;
     -o-transition: all .5s ease 0s;
     transition: all .5s ease 0s;
+    background-color: black;
 }
 
 .navbar-brand {
@@ -424,24 +429,28 @@ h5.subtitle {
 
 .navbar-expand-lg.trans-navigation .navbar-nav .nav-link {
     color: #fff;
+    background-color: black;
 }
 
 
 .trans-navigation {
-    background: transparent;
+    background-color: black;
 }
 
 
 .trans-navigation.header-white {
     background: #111;
+    background-color: black;
 }
 
 .trans-navigation.header-white .navbar-nav .nav-link {
     color: #fff;
+    background-color: black;
 }
 
 .trans-navigation.header-white .navbar-nav a.active {
     color: #1357c9;
+    background-color: black;
 
 }
 .navbar-brand img {
@@ -452,6 +461,7 @@ h5.subtitle {
 .trans-navigation.header-white .btn-white {
     background: #1357c9;
     color: #fff;
+    background-color: black;
 }
 
 
@@ -461,6 +471,7 @@ h5.subtitle {
 
 .navbar-expand-lg.trans-navigation .navbar-nav .nav-link.dropdown-toggle{
     padding-right: 0px;
+    background-color: black;
 }
 
 .nav-item.dropdown .dropdown-menu{
@@ -541,12 +552,12 @@ h5.subtitle {
 ----------------------------------*/
 
 .banner-area .content-padding {
-    padding: 250px 0px 180px;
+    padding: 0px 0px 0px;
 }
 
 
 .content-padding {
-    padding: 180px 0px 80px;
+    padding: 150px 0px 80px;
 }
 
 .banner-content {
@@ -560,6 +571,7 @@ h5.subtitle {
 
 .banner-content .banner-title {
     color: #fff;
+    margin-top: 0px;
     font-weight: 700;
     line-height: 50px;
 }

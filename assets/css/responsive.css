@@ -28,7 +28,7 @@
     }
 
     .trans-navigation{
-        background: #232323;
+        background: #000;
     }
     
     .navbar-expand-lg.trans-navigation .navbar-nav .nav-link{
@@ -126,7 +126,7 @@
     }
 
     .trans-navigation{
-        background: #232323;
+        background: #000;
     }
     
     .navbar-expand-lg.trans-navigation .navbar-nav .nav-link{
@@ -240,7 +240,7 @@
     }
 
     .trans-navigation{
-        background: #232323;
+        background: #000;
         padding: 20px 15px;
     }
     
